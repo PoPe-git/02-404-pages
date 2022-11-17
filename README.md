@@ -20,10 +20,7 @@ Siandien reikia padaryti:
 Diaugiau informacijos [wikipedijoje](https://en.wikipedia.org/wiki/Wiki).
 
 
-![ufo foto](./img/ufo.png)
-
-
-
+<<<<<<< HEAD
 
 Diaugiau informacijos [wikipedijoje](https://en.wikipedia.org/wiki/Wiki).
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
@@ -103,4 +100,8 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
+<<<<<<< HEAD
 No other resouces.
+=======
+No other resouces.
+>>>>>>> b054d15855374596bfb0de6ce10270b45a3ec688
